@@ -3,3 +3,6 @@ my first file
 just started --- let do it 
 
 now staged 
+
+
+this is my 3rd changes and 2nd commit on this file
